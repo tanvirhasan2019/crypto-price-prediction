@@ -24,7 +24,7 @@ This project predicts future Bitcoin (BTC) prices using a Long Short-Term Memory
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/btc-price-prediction.git
+   git clone https://github.com/tanvirhasan2019/crypto-price-prediction.git
    cd btc-price-prediction
 
 2. Install the required packages:
