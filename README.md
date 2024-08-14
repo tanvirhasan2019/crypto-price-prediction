@@ -29,8 +29,8 @@ This project predicts future Bitcoin (BTC) prices using a Long Short-Term Memory
 
 
 2. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 #Usage
